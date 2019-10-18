@@ -1,0 +1,2 @@
+2019-10-17 03:16:34,447 INFO [root] [TestIHRMEmploye.py(test_emp_delete:59)] - Can't convert 'NoneType' object to str implicitly
+2019-10-17 03:16:34,447 INFO [root] [TestIHRMEmploye.py(test_emp_delete:59)] - Can't convert 'NoneType' object to str implicitly
